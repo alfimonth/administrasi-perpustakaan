@@ -25,4 +25,6 @@ python main.py
 ## About Us
 ![image](https://github.com/alfimonth/administrasi-perpustakaan/assets/96417922/cc418c8f-3178-483d-87f2-629c244609e1)
 
+Merupakan hasil dari tugas project dasar pemrograman 'python' semester 1 UBSI
+
 
