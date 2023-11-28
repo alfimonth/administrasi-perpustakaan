@@ -1,4 +1,4 @@
-# administrasi-perpustakaan
+# Administrasi Perpustakaan using Python
 Library Management app with Powerfull CLI Design
 
 
