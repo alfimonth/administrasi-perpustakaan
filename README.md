@@ -23,5 +23,6 @@ python main.py
 ```
 
 ## About Us
-![image](https://github.com/alfimonth/administrasi-perpustakaan/assets/96417922/180c8e58-6b54-4b4a-aa21-f9cef801c5c8)
+![image](https://github.com/alfimonth/administrasi-perpustakaan/assets/96417922/cc418c8f-3178-483d-87f2-629c244609e1)
+
 
